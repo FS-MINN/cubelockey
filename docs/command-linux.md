@@ -27,7 +27,7 @@ Windows は windows OS なので関係ないと思うかもしれませんが，
 | ls         | ファイルやディレクトリを表示           | list                    |
 | cd         | 階層移動（カレントディレクトリの変更） | change directory        |
 | mkdir      | ディレクトリの作成                     | make directory          |
-| rm         | ファイル（やディレクトリ）の削除       | remnove                 |
+| rm         | ファイル（やディレクトリ）の削除       | remove                 |
 
 ### pwd コマンド
 
